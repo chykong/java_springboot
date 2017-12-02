@@ -4,12 +4,13 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /**
- * 第一个SpringBoot应用
+ * Hello world!
+ *
  */
 @SpringBootApplication
-public class FirstApplication {
+public class ConfigStartApplication
+{
     public static void main(String[] args) {
-        SpringApplication.run(FirstApplication.class, args);
+        SpringApplication.run(ConfigStartApplication.class, args);
     }
-
 }
