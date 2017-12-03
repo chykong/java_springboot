@@ -10,6 +10,7 @@
         <module>chapter2_config</module>
         <module>chapter3_jdbctemplate</module>
         <module>chapter4_jpa</module>
+        <module>chapter5_log</module>
     </modules>
     <packaging>pom</packaging>
 
