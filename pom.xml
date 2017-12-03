@@ -11,6 +11,8 @@
         <module>chapter3_jdbctemplate</module>
         <module>chapter4_jpa</module>
         <module>chapter5_log</module>
+        <module>chapter6_redis</module>
+        <module>chapter7_junit</module>
     </modules>
     <packaging>pom</packaging>
 
