@@ -9,6 +9,7 @@
         <module>chapter1_first</module>
         <module>chapter2_config</module>
         <module>chapter3_jdbctemplate</module>
+        <module>chapter4_jpa</module>
     </modules>
     <packaging>pom</packaging>
 
