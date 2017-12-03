@@ -15,6 +15,7 @@
         <module>chapter7_junit</module>
         <module>chapter8_rabbitmq</module>
         <module>chapter9_mongodb</module>
+        <module>chapter8_rabbitmq_listener</module>
     </modules>
     <packaging>pom</packaging>
 
