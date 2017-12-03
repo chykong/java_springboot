@@ -17,6 +17,7 @@
         <module>chapter9_mongodb</module>
         <module>chapter8_rabbitmq_listener</module>
         <module>chapter10_task</module>
+        <module>chapter11_profiles</module>
     </modules>
     <packaging>pom</packaging>
 
