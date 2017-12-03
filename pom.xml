@@ -13,6 +13,8 @@
         <module>chapter5_log</module>
         <module>chapter6_redis</module>
         <module>chapter7_junit</module>
+        <module>chapter8_rabbitmq</module>
+        <module>chapter9_mongodb</module>
     </modules>
     <packaging>pom</packaging>
 
